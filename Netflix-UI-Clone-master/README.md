@@ -10,6 +10,7 @@ _<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
 ## What it is
 #it is
 
+
 A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
 
 - HTML
@@ -22,9 +23,10 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 
 ## Learning Points
 
-- CSS Grid
+- CSS Gri
 - Styling Tables
 - Positioning
+
 
 > Also (Just a thought), You could advance this by adding some animations to the selector borders etc.
 
