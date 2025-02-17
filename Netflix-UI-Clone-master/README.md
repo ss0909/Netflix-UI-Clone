@@ -16,6 +16,7 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 - HTML
 - #My New Project
 - CSS
+#js
 
 ## What it does
 
