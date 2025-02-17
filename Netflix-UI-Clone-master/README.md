@@ -8,6 +8,7 @@ _<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
 </div>
 
 ## What it is
+#it is
 
 A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
 
