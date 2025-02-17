@@ -12,6 +12,7 @@ _<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
 A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
 
 - HTML
+- #My New Project
 - CSS
 
 ## What it does
