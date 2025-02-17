@@ -9,6 +9,7 @@ _<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
 
 ## What it is
 #it is
+#its nor
 
 
 A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
